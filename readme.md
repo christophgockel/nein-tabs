@@ -6,6 +6,11 @@ A Chrome and Firefox extension to help declutter your tabs.
 After installing this you can only have up to nine tabs per browser window.
 Every tab after that will be opened in a new window.
 
+## Demo
+
+![Nein Tabs Demo](https://github.com/christophgockel/nein-tabs/raw/master/demo.gif)
+
+
 ## Installation
 
 ### Chrome
