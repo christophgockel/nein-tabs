@@ -23,6 +23,16 @@ Go to the [Chrome's Web Store](https://chrome.google.com/webstore/category/exten
 You can search for "Nein Tabs" in [Mozilla's official Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/extensions/), or go directly to: https://addons.mozilla.org/en-US/firefox/addon/nein-tabs/
 
 
+## Known Issues
+
+When installing the extension in Firefox it will show this notice:
+
+> Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+
+This is not a huge problem and should automatically go away in future Firefox versions when it starts to support event pages.
+The fallback it provides to run it as a background page is okay as far as the extension is concerned.
+
+
 ## Changelog
 
 See [changelog.md](changelog.md) for details.
