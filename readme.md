@@ -28,6 +28,11 @@ You can search for "Nein Tabs" in [Mozilla's official Firefox Add-ons](https://a
 Nein Tabs is submitted to Opera add-ons and waiting for approval.
 
 
+### Edge
+
+Support for Edge is currently work in progress (see [PR #1](https://github.com/christophgockel/nein-tabs/pull/1) for details).
+
+
 ## Known Issues
 
 When installing the extension in Firefox it will show this notice:
