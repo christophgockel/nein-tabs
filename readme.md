@@ -23,6 +23,11 @@ Go to the [Chrome's Web Store](https://chrome.google.com/webstore/category/exten
 You can search for "Nein Tabs" in [Mozilla's official Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/extensions/), or go directly to: https://addons.mozilla.org/en-US/firefox/addon/nein-tabs/
 
 
+### Opera
+
+Nein Tabs is submitted to Opera add-ons and waiting for approval.
+
+
 ## Known Issues
 
 When installing the extension in Firefox it will show this notice:
