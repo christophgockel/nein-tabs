@@ -2,7 +2,7 @@
    "manifest_version": 2,
    "name": "Nein Tabs",
    "description": "Say nein to too many tabs.",
-   "version": "0.0.1",
+   "version": "1.0.0",
    "author": "Christoph Gockel",
    "background": {
      "scripts": ["nein.js"],
