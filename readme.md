@@ -30,7 +30,8 @@ Nein Tabs is submitted to Opera add-ons and waiting for approval.
 
 ### Edge
 
-Support for Edge is currently work in progress (see [PR #1](https://github.com/christophgockel/nein-tabs/pull/1) for details).
+Edge's API doesn't support tearing off tabs (see [PR #1](https://github.com/christophgockel/nein-tabs/pull/1) for details).
+Until Microsoft catches up in that area Nein Tabs cannot run in Edge.
 
 
 ## Known Issues
