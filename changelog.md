@@ -7,6 +7,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 ## [Unreleased]
 
+## [1.0.1] - 2017-11-14
+### Changes
+- Removes custom icon for the browser's toolbar since the default icon works just as fine
+
 ## [1.0.0] - 2017-11-13
 ### Changes
 - No permissions are requested anymore
@@ -16,6 +20,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 - Allows nine tabs per browser window
 
 
-[Unreleased]: https://github.com/christophgockel/nein-tabs/compare/1.0.0...HEAD
+[Unreleased]: https://github.com/christophgockel/nein-tabs/compare/1.0.1...HEAD
+[1.0.1]: https://github.com/christophgockel/nein-tabs/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/christophgockel/nein-tabs/compare/0.0.1...1.0.0
 
