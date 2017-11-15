@@ -2,7 +2,7 @@
 
 Say nein to too many tabs!
 
-A Chrome and Firefox extension to help declutter your tabs.
+A Chrome, Firefox and Opera extension to help declutter your tabs.
 After installing this you can only have up to nine tabs per browser window.
 Every tab after that will be opened in a new window.
 
@@ -25,7 +25,8 @@ You can search for "Nein Tabs" in [Mozilla's official Firefox Add-ons](https://a
 
 ### Opera
 
-Nein Tabs is submitted to Opera add-ons and waiting for approval.
+When visiting [Opera's add-on gallery](https://addons.opera.com/en/extensions/) you can search for "Nein Tabs".
+Alternatively you can go directly to: https://addons.opera.com/en/extensions/details/nein-tabs
 
 
 ### Edge
